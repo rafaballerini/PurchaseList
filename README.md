@@ -1,4 +1,4 @@
-# PurchaseList in Python
+# PurchaseList
 
 - A program that requests a shopping list with 5 items, where each item is a dictionary containing product description and price.
 - It scrolls through the list and shows the information for each item.
